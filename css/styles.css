@@ -1,0 +1,69 @@
+body {
+    background-color: pink;
+    color: white;
+    font-family: Helvetica;
+}
+img {
+    width: 350px;
+    height: 350px;
+    border: 5px solid white;
+}
+.image1 {
+    position: relative;
+    left: 1475px;
+    bottom:2150px
+}
+.image2 {
+    position: relative;
+    left: 1111px;
+    bottom: 1775px;
+}
+.image3 {
+    position: relative;
+    left: 747px;
+    bottom: 1400px;
+}
+.image4 {
+    position: relative;
+    left: 383px;
+    bottom: 1025px;
+}
+.image5 {
+    position: relative;
+    left: 19px;
+    bottom: 650px;
+}
+.contacts {
+    background-color: white;
+    width: fit-content;
+    color: pink;
+    border-radius: 10px;
+    border: 1px solid white;
+    line-height: 30px;
+    text-align: center;
+    position: relative;
+    left: 1400px;
+    bottom: 2300px;
+}
+h1 {
+    font-size: 175px;
+    font-weight: bold;
+    line-height: 50px;
+}
+h2{
+    font-size:90px;
+    line-height: 30px;
+}
+h3{
+    font-size: 50px;
+    line-height: 30px;
+}
+p{
+    max-width: 75%;
+    font-size: 30px;
+}
+ul{
+    font-size:100px;
+    position: relative;
+    left: 70px;
+}
